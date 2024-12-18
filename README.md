@@ -1,3 +1,9 @@
+Yazılım Mimarisi ve Tasarımı Dönem Projesi Ödevi - Grup14
+Proje Grubu: 
+Barış Serbest - 5220505051
+Volkan Ağgünlü - 1220505013
+Volkan Ağgünlü Github Bağlantısı: https://github.com/volkanaggunlu
+
 Kişisel Not Defteri Uygulaması 
 Bu proje, kullanıcıların notlarını güvenli bir şekilde yönetmelerine olanak tanıyan bir not defteri Uygulamasıdır. Kullanıcılar giriş yapabilir, 
 not ekleyebilir, düzenleyebilir ve silebilir. Uygulama, farklı kullanıcı rolleri (admin ve user) için özelleştirilmiş özellikler sunar.
